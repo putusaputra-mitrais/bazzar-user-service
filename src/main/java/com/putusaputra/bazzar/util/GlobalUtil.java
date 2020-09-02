@@ -1,4 +1,4 @@
-package com.putusaputra.bazzar.service;
+package com.putusaputra.bazzar.util;
 
 import java.util.List;
 

@@ -19,8 +19,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.putusaputra.bazzar.dto.ResponseWrapper;
 import com.putusaputra.bazzar.model.User;
-import com.putusaputra.bazzar.service.GlobalUtil;
 import com.putusaputra.bazzar.service.UserService;
+import com.putusaputra.bazzar.util.GlobalUtil;
 
 import lombok.extern.slf4j.Slf4j;
 
